@@ -1,0 +1,10 @@
+PARSE: testing: 1/205
+<a href="matlab: opentoline('/home/ruan/Myworkspace/APE/Articulated_Pose_Estimation_1X1/detection/detect_fast.m',13,1)">13  </a>interval = model.interval;
+imshow(im)
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+[Warning: File 'cache/PARSE.log' not found.] 
+[> In <a href="matlab: opentoline('/home/ruan/Myworkspace/APE/Articulated_Pose_Estimation_1X1/learning/trainmodel.m',6,1)">trainmodel at 6</a>
+  In <a href="matlab: opentoline('/home/ruan/Myworkspace/APE/Articulated_Pose_Estimation_1X1/main.m',437,1)">main at 437</a>] 

@@ -1,0 +1,1104 @@
+Using 6.0 GB
+
+iter: 1/1
+PARSE_final1_6666666666666: iter 1: latent positive: 1/2950
+
+ans =
+
+    0.4780
+
+
+ans =
+
+    0.0788
+
+
+ans =
+
+    0.1811
+
+
+ans =
+
+    0.8265
+
+
+ans =
+
+    0.7961
+
+
+ans =
+
+    0.8653
+
+
+ans =
+
+    0.8217
+
+
+ans =
+
+    0.8260
+
+
+ans =
+
+    0.7619
+
+
+ans =
+
+    0.8607
+
+
+ans =
+
+    0.8015
+
+
+ans =
+
+    0.8153
+
+
+ans =
+
+    0.7001
+
+
+ans =
+
+    0.9107
+
+
+ans =
+
+    0.8236
+
+
+ans =
+
+    0.8460
+
+<a href="matlab: opentoline('/home/ruan/Myworkspace/APE/Articulated_Pose_Estimation_1X1/detection/detect.m',259,1)">259 </a>numparts = length(parts);
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+
+ans =
+
+    0.0686
+
+
+ans =
+
+    0.1577
+
+
+ans =
+
+    0.1040
+
+
+ans =
+
+    0.3622
+
+
+ans =
+
+    0.5491
+
+
+ans =
+
+    0.8120
+
+
+ans =
+
+    0.8322
+
+
+ans =
+
+    0.8000
+
+
+ans =
+
+    0.6881
+
+
+ans =
+
+    0.7471
+
+
+ans =
+
+    0.8217
+
+
+ans =
+
+    0.7861
+
+
+ans =
+
+    0.8322
+
+
+ans =
+
+    0.8322
+
+
+ans =
+
+    0.6055
+
+
+ans =
+
+    0.7896
+
+
+ans =
+
+    0.7761
+
+
+ans =
+
+    0.7127
+
+
+ans =
+
+    0.8227
+
+
+ans =
+
+    0.8771
+
+
+ans =
+
+    0.8119
+
+
+ans =
+
+    0.8396
+
+
+ans =
+
+    0.8491
+
+
+ans =
+
+    0.9484
+
+
+ans =
+
+    0.8206
+
+
+ans =
+
+    0.8017
+
+
+ans =
+
+    0.7389
+
+
+ans =
+
+    0.6923
+
+
+ans =
+
+    0.7973
+
+
+ans =
+
+    0.8089
+
+
+ans =
+
+    0.8279
+
+
+ans =
+
+    0.3154
+
+
+ans =
+
+    0.2081
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.6307
+
+
+ans =
+
+    0.5857
+
+
+ans =
+
+    0.2745
+
+
+ans =
+
+    0.0595
+
+
+ans =
+
+    0.4161
+
+
+ans =
+
+    0.7245
+
+
+ans =
+
+    0.7245
+
+
+ans =
+
+    0.7077
+
+
+ans =
+
+    0.7245
+
+
+ans =
+
+    0.7245
+
+
+ans =
+
+    0.7133
+
+
+ans =
+
+    0.7043
+
+
+ans =
+
+    0.7245
+
+
+ans =
+
+    0.7037
+
+
+ans =
+
+    0.4923
+
+
+ans =
+
+    0.0906
+
+
+ans =
+
+    0.1195
+
+
+ans =
+
+    0.2390
+
+
+ans =
+
+    0.1373
+
+
+ans =
+
+    0.7928
+
+
+ans =
+
+    0.7928
+
+
+ans =
+
+    0.7502
+
+
+ans =
+
+    0.7852
+
+
+ans =
+
+    0.7335
+
+
+ans =
+
+    0.7481
+
+
+ans =
+
+    0.7754
+
+
+ans =
+
+    0.7753
+
+
+ans =
+
+    0.7928
+
+
+ans =
+
+    0.6422
+
+
+ans =
+
+    0.7672
+
+
+ans =
+
+    0.7928
+
+
+ans =
+
+    0.7928
+
+ (comp=1,sc=2.724)
+PARSE_final1_6666666666666: iter 1: latent positive: 2/2950
+
+ans =
+
+    0.5592
+
+
+ans =
+
+    0.8942
+
+
+ans =
+
+    0.8148
+
+
+ans =
+
+    0.8048
+
+
+ans =
+
+    0.7768
+
+
+ans =
+
+    0.7907
+
+
+ans =
+
+    0.8942
+
+
+ans =
+
+    0.4992
+
+
+ans =
+
+    0.7786
+
+
+ans =
+
+    0.7896
+
+
+ans =
+
+    0.8923
+
+
+ans =
+
+    0.7578
+
+
+ans =
+
+    0.8640
+
+
+ans =
+
+    0.8524
+
+
+ans =
+
+    0.4541
+
+
+ans =
+
+    0.0297
+
+
+ans =
+
+    0.7378
+
+
+ans =
+
+    0.7378
+
+
+ans =
+
+    0.6956
+
+
+ans =
+
+    0.7131
+
+
+ans =
+
+    0.7378
+
+
+ans =
+
+    0.7042
+
+
+ans =
+
+    0.3066
+
+
+ans =
+
+    0.7784
+
+
+ans =
+
+    0.7385
+
+
+ans =
+
+    0.7583
+
+
+ans =
+
+    0.7784
+
+
+ans =
+
+    0.7784
+
+
+ans =
+
+    0.7488
+
+
+ans =
+
+    0.5652
+
+
+ans =
+
+    0.0151
+
+
+ans =
+
+    0.0476
+
+
+ans =
+
+    0.4238
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.6777
+
+
+ans =
+
+    0.5988
+
+
+ans =
+
+    0.2434
+
+
+ans =
+
+    0.0031
+
+
+ans =
+
+    0.6423
+
+
+ans =
+
+    0.6423
+
+
+ans =
+
+    0.6423
+
+
+ans =
+
+    0.6423
+
+
+ans =
+
+    0.6423
+
+
+ans =
+
+    0.6388
+
+
+ans =
+
+    0.2483
+
+
+ans =
+
+    0.2796
+
+
+ans =
+
+    0.1280
+
+
+ans =
+
+    0.0693
+
+
+ans =
+
+    0.8475
+
+
+ans =
+
+    0.8260
+
+
+ans =
+
+    0.8401
+
+
+ans =
+
+    0.6869
+
+
+ans =
+
+    0.7422
+
+
+ans =
+
+    0.8360
+
+
+ans =
+
+    0.3555
+
+
+ans =
+
+    0.4868
+
+
+ans =
+
+    0.5900
+
+
+ans =
+
+    0.0958
+
+
+ans =
+
+    0.1673
+
+
+ans =
+
+    0.3212
+
+
+ans =
+
+    0.3689
+
+
+ans =
+
+    0.2119
+
+PARSE_final1_6666666666666: iter 1: latent positive: 3/2950
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.6211
+
+
+ans =
+
+    0.4869
+
+
+ans =
+
+    0.0105
+
+
+ans =
+
+    0.1361
+
+
+ans =
+
+    0.7929
+
+
+ans =
+
+    0.7226
+
+
+ans =
+
+    0.7948
+
+
+ans =
+
+    0.8195
+
+
+ans =
+
+    0.7796
+
+
+ans =
+
+    0.7866
+
+
+ans =
+
+    0.8012
+
+
+ans =
+
+    0.7534
+
+
+ans =
+
+    0.8161
+
+
+ans =
+
+    0.7246
+
+
+ans =
+
+    0.7415
+
+
+ans =
+
+    0.7168
+
+
+ans =
+
+    0.7181
+
+
+------------------------------------------------------------------------
+       Segmentation violation detected at Mon Dec 29 21:42:09 2014
+------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding     : Disabled
+  Current Visual     : 0x21 (class 4, depth 24)
+  Default Encoding   : UTF-8
+  GNU C Library      : 2.19 stable
+  MATLAB Architecture: glnxa64
+  MATLAB Root        : /usr/local/MATLAB/R2013a
+  MATLAB Version     : 8.1.0.604 (R2013a)
+  Operating System   : Linux 3.13.0-24-generic #46-Ubuntu SMP Thu Apr 10 19:11:08 UTC 2014 x86_64
+  Processor ID       : x86 Family 6 Model 62 Stepping 4, GenuineIntel
+  Virtual Machine    : Java 1.6.0_17-b04 with Sun Microsystems Inc. Java HotSpot(TM) 64-Bit Server VM mixed mode
+  Window System      : The X.Org Foundation (11501000), display :0
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Register State (from fault):
+  RAX = 0000000000000001  RBX = 00007f4a8f6b33b0
+  RCX = 0000000000000018  RDX = 0000000000000000
+  RSP = 00007f4a8f6b3210  RBP = 00007f4a8f6b32d0
+  RSI = 0000000000000000  RDI = 0000000000000001
+
+   R8 = 00007f49f32f5300   R9 = 00007f4a8f6b3630
+  R10 = 00007f4a80000078  R11 = 00007f4a80000070
+  R12 = 00007f4a8f6b3630  R13 = 00007f49f32f5300
+  R14 = 00007f49f3b8cc90  R15 = 00000000fffffffe
+
+  RIP = 00007f4aa2b7bd03  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007f4aa2b7bd03 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+03902723
+[  1] 0x00007f4aa2b7e407 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+03912711
+[  2] 0x00007f4aa2b7fb76 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+03918710
+[  3] 0x00007f4aa2b7ffac /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+03919788
+[  4] 0x00007f4aa299c8ac /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01939628
+[  5] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[  6] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[  7] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[  8] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[  9] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 10] 0x00007f4aa2997a86 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01919622
+[ 11] 0x00007f4aa299c374 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01938292
+[ 12] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 13] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 14] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 15] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 16] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 17] 0x00007f4aa2997a86 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01919622
+[ 18] 0x00007f4aa299c374 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01938292
+[ 19] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 20] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 21] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 22] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 23] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 24] 0x00007f4aa2997a86 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01919622
+[ 25] 0x00007f4aa299c374 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01938292
+[ 26] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 27] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 28] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 29] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 30] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 31] 0x00007f4aa2997a86 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01919622
+[ 32] 0x00007f4aa299c374 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01938292
+[ 33] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 34] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 35] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 36] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 37] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 38] 0x00007f4aa297309d /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01769629
+[ 39] 0x00007f4aa299bb0e /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01936142
+[ 40] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 41] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 42] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 43] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 44] 0x00007f4aa29e7256 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02245206
+[ 45] 0x00007f4aa297309d /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01769629
+[ 46] 0x00007f4aa299bb0e /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01936142
+[ 47] 0x00007f4aa2998993 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01923475
+[ 48] 0x00007f4aa2999797 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01927063
+[ 49] 0x00007f4aa2a04e50 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02367056
+[ 50] 0x00007f4aa31496b2 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_dispatcher.so+00562866 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000594
+[ 51] 0x00007f4aa29d3dcb /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+02166219
+[ 52] 0x00007f4aa29917cc /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01894348
+[ 53] 0x00007f4aa298de1d /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01879581
+[ 54] 0x00007f4aa298e255 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwm_interpreter.so+01880661
+[ 55] 0x00007f4a99a38fae /usr/local/MATLAB/R2013a/bin/glnxa64/libmwbridge.so+00139182
+[ 56] 0x00007f4a99a39111 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwbridge.so+00139537
+[ 57] 0x00007f4a99a39ce5 /usr/local/MATLAB/R2013a/bin/glnxa64/libmwbridge.so+00142565 _Z8mnParserv+00000725
+[ 58] 0x00007f4aa33e13d2   /usr/local/MATLAB/R2013a/bin/glnxa64/libmwmcr.so+00447442 _ZN11mcrInstance30mnParser_on_interpreter_threadEv+00000034
+[ 59] 0x00007f4aa33c09ac   /usr/local/MATLAB/R2013a/bin/glnxa64/libmwmcr.so+00313772
+[ 60] 0x00007f4aa33c0b88   /usr/local/MATLAB/R2013a/bin/glnxa64/libmwmcr.so+00314248
+[ 61] 0x00007f4a96f4d5c6   /usr/local/MATLAB/R2013a/bin/glnxa64/libmwuix.so+00480710
+[ 62] 0x00007f4a96f5adf2   /usr/local/MATLAB
